@@ -1,4 +1,4 @@
-# HSR Suit Pack
+# HSR Suit Pack v0.1.0
 ### Adds Honkai Star Rail characters to Lethal Company.
 Enjoy!
 
