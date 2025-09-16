@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3140086139
+CRC: 441072681
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d92b1387efad9bf086cfc655be6d524e
+    Hash: a008f0cfff7dd71c19ccdcaaf457c718
   TypeTreeHash:
     serializedVersion: 2
     Hash: d919e44f3849ce9c06744e353f422b14
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: d92b1387efad9bf086cfc655be6d524e
+    Hash: a008f0cfff7dd71c19ccdcaaf457c718
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -39,4 +39,7 @@ ClassTypes:
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/ModelReplacementSDK/AssetsToBuild/Mydei.prefab
+- Assets/ModelReplacementSDK/AssetsToBuild/Phainon.prefab
+- Assets/ModelReplacementSDK/AssetsToBuild/Anaxa.prefab
+- Assets/ModelReplacementSDK/AssetsToBuild/Khaslana.prefab
 Dependencies: []

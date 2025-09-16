@@ -2,10 +2,10 @@
     "name": "HSR Suit Pack",
     "version_number": "0.1.0",
     "website_url": "",
-    "description": "Adds Honkai Star Rail cast to Lethal Company",
+    "description": "Adds Honkai Star Rail characters to Lethal Company",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
         "x753-More_Suits-1.4.0",
-		"BunyaPineTree-ModelReplacementAPI-2.3.1"
+        "BunyaPineTree-ModelReplacementAPI-2.3.1"
     ]
 }

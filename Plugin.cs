@@ -18,7 +18,10 @@ namespace HSRSuitPack
 
             // Plugin startup logic
 
+            ModelReplacementAPI.RegisterSuitModelReplacement("Anaxa", typeof(AnaxaReplacement));
+            ModelReplacementAPI.RegisterSuitModelReplacement("Khaslana", typeof(KhaslanaReplacement));
             ModelReplacementAPI.RegisterSuitModelReplacement("Mydei", typeof(MydeiReplacement));
+            ModelReplacementAPI.RegisterSuitModelReplacement("Phainon", typeof(PhainonReplacement));
 
             Harmony harmony = new Harmony("com.figstew.hsrsuitpack");
             harmony.PatchAll();
